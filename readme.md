@@ -1,4 +1,4 @@
-# Repository: This is a repo designed to introduce the fundamentals of managing git
+# Repository: This is a lab designed to teach students of the functions of git
 
 **script1.py** Asks the question that has puzzled the greatest of mankind for many centuries.
 
