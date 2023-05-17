@@ -1,5 +1,5 @@
 # Repository: This is a repo designed to introduce the fundamentals of managing git
 
-**script1.py** asks a very important question of life
+**script1.py** Asks the question that has puzzled the greatest of mankind for many centuries.
 
-**script2.py** Provides a real world example of a zero-sum game
+**script2.py** Provides the reader with a real world example of a zero-sum game.
